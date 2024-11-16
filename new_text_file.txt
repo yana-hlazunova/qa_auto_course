@@ -1,2 +1,6 @@
 new_file
+<<<<<<< HEAD
 changes to main branch v2
+=======
+testing branch
+>>>>>>> testing
